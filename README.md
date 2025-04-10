@@ -18,6 +18,6 @@ bet365,易胜博,皇冠,nbb,金宝博,利记,平博,韦德
 | sbo   | 212/132 | 136%              |  
 ## 回测与实盘表现  
 现已经实现按周统计20周赢19周。回撤空间微小。
-联系方式 飞机:@anesthetizeotter
-  ![iamge](./wx.png)
-  ![image](./fj.png)
+## 联系方式 欢迎技术人才交流 飞机:@anesthetizeotter
+![iamge](./wx.png)
+![image](./fj.png)
